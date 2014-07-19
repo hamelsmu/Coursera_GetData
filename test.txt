@@ -1,2 +1,4 @@
 test
 adding lines to this text file
+adding these two lines
+adding these two lines
